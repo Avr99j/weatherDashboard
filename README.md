@@ -14,6 +14,7 @@ The application is deployed on GitHub Pages. You can access it [here](https://av
 
 ## Screenshots
 
+<img width="1633" alt="image" src="https://github.com/Avr99j/weatherDashboard/assets/71075582/73684669-f1da-4a6b-a0c6-08abe7736bcd">
 
 
 ## Usage
